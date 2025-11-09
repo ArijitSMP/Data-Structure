@@ -1,6 +1,3 @@
-
-
-
 public class DoublyLinkedList{
 
     private Node head;
